@@ -1,5 +1,7 @@
 # Responsive-Images
 
+![Example Page](/page.png)
+
 RE-size page for responsive images.
 
 Dog Photo by Luka Senica on Unsplash
